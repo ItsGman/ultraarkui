@@ -1,0 +1,93 @@
+	
+	{
+	"ServerName":"UltraArk 1000x-Fibercraft/CustomDrops/Mods/Cryos/Shop/XPlay",
+	"ButtonTxt1":"Rules",
+	"ButtonTxt2":"",
+	"ButtonTxt3":"",
+	"ButtonTxt4":"",
+	"ButtonTxt5":"",
+	"LinkButtonTxt1":"Discord",
+	"LinkButtonTxt2":"Donation Shop",
+	"LinkButtonTxt3":"",
+	"LinkButtonTxt4":"",
+	"LinkButtonTxt5":"",
+	"LinkButton1":"discord.gg/addpSvUAmX",
+	"LinkButton2":"https://ultraark.tebex.io/",
+	"Link1Button3":"",
+	"Link2Button3":"",
+	"Link3Button3":"",
+	"Link4Button3":"",
+	"Link1Button4":"",
+	"Link2Button4":"",
+	"Link3Button4":"",
+	"Link4Button4":"",
+	"Link1Button5":"",
+	"Link2Button5":"",
+	"Link3Button5":"",
+	"Link4Button5":"",
+	"Tab1Panelcount":1,
+	"Tab2Panelcount":1,
+	"Tab3Panelcount":1,
+	"Tab4Panelcount":1,
+	"Tab5Panelcount":1,
+	"BackgroundTab1":3,
+	"BackgroundTab2":0,
+	"BackgroundTab3":0,
+	"BackgroundTab4":0,
+	"BackgroundTab5":0,
+	"Background3Color":"255,9,9,0.38",
+	"FontColorButtons":"102,102,102",
+	"FontColorServerName":"255,0,0",
+	"FontColorTabTitles":"102,102,102",
+	"FontColorTabText":"255,255,255",
+	"UseSteamBrowserLink1":false,
+	"UseSteamBrowserLink2":false,
+	"Tab1Title1":"Server Rules",
+	"Tab1Title2":"",
+	"Tab1Title3":"",
+	"Tab2Title1":"",
+	"Tab2Title2":"",
+	"Tab2Title3":"",
+	"Tab3Title1":"",
+	"Tab3Title2":"",
+	"Tab3Title3":"",
+	"Tab4Title1":"",
+	"Tab4Title2":"",
+	"Tab4Title3":"",
+	"Tab5Title1":"",
+	"Tab5Title2":"",
+	"Tab5Title3":"",
+	"Tab1Text1":"Rule #1 - No hacking, meshing, or exploiting bugs. No mesh structures.
+
+Rule #2 - Keep structure spam to a minimum, no excessive griefing
+
+Rule #3 - No slurs or offensive content of any kind in tribe names, player names, tame names, or anywhere else
+
+Rule #4 - Dont take an excessive amount of base spots, keep it down to 1 cave per group
+
+Rule #5 - Dont destroy/transfer loot if you are being raided
+
+Rule #6 - Dont build turrets at spawn areas or on obelisks
+
+Rule #7 - Dont use more than 3 soakers at a time (to prevent excessive lag)
+
+Rule #8 - Never inside your tribe/group
+
+Rule #9 No extreme toxicity, racism, or offensive discussions of any kind
+
+Rule #10 Inactive FOBs cant be left up for more than 12 hours.",
+	"Tab1Text2":"",
+	"Tab1Text3":"",
+	"Tab2Text1":"",
+	"Tab2Text2":"",
+	"Tab2Text3":"",
+	"Tab3Text1":"",
+	"Tab3Text2":"",
+	"Tab3Text3":"",
+	"Tab4Text1":"",
+	"Tab4Text2":"",
+	"Tab4Text3":"",
+	"Tab5Text1":"",
+	"Tab5Text2":"",
+	"Tab5Text3":""
+	}
