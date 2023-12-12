@@ -1,7 +1,7 @@
 {
     "WBUI2": {
         "settings": {
-            "OpenButton": 0,
+            "OpenButton": f2,
             "HideIcon": false,
             "HideIconAfter": 60,
             "IconURL": "https://cdn.discordapp.com/attachments/1177419073227853865/1179582333087653888/ultraark_logor33r3r10.png?ex=65838927&is=65711427&hm=10a3e62e0e6648f8b78f2bb5bf65f197acabb79a9e70af9c5274011976d8ce9c&",
