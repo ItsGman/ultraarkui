@@ -29,7 +29,7 @@
                     "title1": "",
                     "title2": "",
                     "text1": "Rule #1 - No hacking or exploiting bugs.\n\nRule #2 - No meshed structures or meshing of any kind\n\nRule #3 - Keep structure spam to a minimum, no excessive griefing\n\nRule #4 - No slurs or offensive content of any kind in tribe names, player names, tame names, or anywhere else\n\nRule #5 - Don't take an excessive amount of base spots, keep it down to 1 cave per group\n\nRule #6 - You may only have turrets at your own base, or an active FOB.\n\nRule #7 - Don't destroy/transfer loot if you are being raided.",
-                    "text2": "Rule #8 - Don't leave your tames breeding while you are offline.\n\nRule #9 - Don't build turrets at spawn areas or any structures on obelisk terminals.\n\nRule #10 - Don't use more than 3 active soakers at a time (to prevent excessive lag).\n\nRule #9 No extreme toxicity, racism, or offensive discussions of any kind.\n\nRule #11 - Never inside your tribe/group.\n\nRule #13 Inactive FOBs can't be left up for more than 12 hours.\n\nFor more info, punishments, and reporting, join the Discord server - discord.gg/urd3GfSjzY",
+                    "text2": "Rule #8 - Don't leave your tames breeding while you are offline.\n\nRule #9 - Don't build turrets at spawn areas or any structures on obelisk terminals.\n\nRule #10 - Don't use more than 3 active soakers at a time (to prevent excessive lag).\n\nRule #9 No extreme toxicity, racism, or offensive discussions of any kind.\n\nRule #11 - Never inside your tribe/group.\n\nRule #13 Inactive FOBs can't be left up for more than 12 hours.\n\nFor more info, all rules, punishments, and reporting, join the Discord server - discord.gg/fibercraft",
                     "imageurl": "https://media.discordapp.net/attachments/1178912683458842704/1183825477039816785/ultraark_logo0.png?ex=6589be64&is=65774964&hm=8cc1a5d9d9ae7e4a2d4f107644adeecf57809d8b5c3078c0ca1c07fc605fc16f&=&format=webp&quality=lossless&width=1352&height=1352"
                 }
             }
@@ -38,19 +38,19 @@
             {
                 "link1": {
                     "text": "Discord",
-                    "url": "https://discord.gg/addpSvUAmX"
+                    "url": "https://discord.gg/fibercraft"
                 }
             },
             {
                 "link2": {
                     "text": "Donation Shop",
-                    "url": "https://ultraark.tebex.io/"
+                    "url": "https://shop.ultraark.net/category/vip"
                 }
             },
             {
                 "link3": {
                     "text": "About",
-                    "url": "https://ultraark.tebex.io/about"
+                    "url": "https://shop.ultraark.net/about"
                 }
             }
         ]
