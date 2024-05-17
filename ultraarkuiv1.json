@@ -36,7 +36,7 @@
                     "layout": 1,
                     "buttontext": "Raiding Rules",
                     "title1": "",
-                    "text1": "R1 • No teaming with another tribe to raid someone or defend from a raid. Your tribe cannot join in on someone else's raid unless you raid their FOB first. If you counter raid, you need a FOB of your own and must make reasonable efforts to raid the initial raiders and successfully clear them out before raiding the original target. Punishment for blatant teaming is a removal of both FOBs and a warning issued to both tribes. Punishment for joining in on a raid as a third-party will result in the removal of the third-party raider's FOB and a warning.\n\nR2 • When raiding, your tribe cannot have more than 5 soaker type tames soaking at once. Your tribe can have no more than 10 total tames of any type getting shot by turrets at once. Punishment for this rule can range from the involved tames being deleted and a warning issued, up to a permanent ban depending on severity and damages caused.\n\nR3 • Your FOB cannot be left inactive for longer than 4 hours. If you finish a raid or intend to quit raiding, you need to unpower (destroy all generators and power off all turrets) or remove your FOB. Punishment for either of these is a warning and admin removal of your FOB.\n\nR4 • Don't destroy or move/upload/transfer your loot if you are being raided. Punishment for first offense is a 2 week ban. Second offense is a permanent ban.\n\nR5 • Abusing bugs within the game to raid people unfairly is not allowed. Punishment can range from a warning to permanent ban depending on severity and damages.\n\nR6 • Platform saddle tames cannot be fully covered for raiding, they must have at least one exposed side. Raft raiding is allowed. Punishment is a warning and deletion of the tame.",
+                    "text1": "R1 • No teaming with another tribe to raid someone or defend from a raid. Your tribe cannot join in on someone else's raid unless you raid their FOB first. If you counter raid you need to make reasonable efforts to raid the initial raiders and successfully clear them out before raiding the original target. Punishment for blatant teaming is a removal of both FOBs and a warning issued to both tribes. Punishment for joining in on a raid as a third-party will result in the removal of the third-party raider's FOB and a warning.\n\nR2 • When raiding, your tribe cannot have more than 5 soaker type tames soaking at once. Your tribe can have no more than 10 total tames of any type getting shot by turrets at once. Punishment for this rule can range from the involved tames being deleted and a warning issued, up to a permanent ban depending on severity and damages caused.\n\nR3 • Your FOB cannot be left abandoned for longer than 8 hours. If you finish a raid or intend to quit raiding, you need to unpower (destroy all generators and power off all turrets) and/or remove your FOB. Punishment for either of these is a warning and admin removal of your FOB.\n\nR4 • Don't destroy or move/upload/transfer your loot if you are being raided. Punishment for first offense is a 2 week ban. Second offense is a permanent ban.\n\nR5 • Abusing bugs within the game to raid people unfairly is not allowed. Punishment can range from a warning to permanent ban depending on severity and damages.\n\nR6 • Platform saddle tames cannot be fully covered for raiding, they must have at least one exposed side. Raft raiding is allowed. Punishment is a warning and deletion of the tame.",
                     "imageurl": "https://i.imgur.com/dOd90I7.jpg"
                 }
             },
@@ -60,13 +60,13 @@
             {
                 "link2": {
                     "text": "Store",
-                    "url": "https://www.ultraark.net/category/vip"
+                    "url": "https://ultraark.net/"
                 }
             },
             {
                 "link3": {
                     "text": "About",
-                    "url": "https://www.ultraark.net"
+                    "url": "https://ultraark.net"
                 }
             }
         ]
